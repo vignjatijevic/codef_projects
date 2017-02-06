@@ -20,4 +20,4 @@ Javascript retro remakes created with the *Canvas Oldshool Demo Effect Framework
 |Original artwork & design: Red Sector Inc.|
 |Original music: 'amegas' by Karsten Obarski|
 |Released: December 1987.|
-|Remake: [master/src/amiga_cracktro_rsi](https://github.com/vignjatijevic/codef_projects/tree/master/src/amiga_cracktro_rsi) |
+|Remake: [Demo](http://garageapps.org/codef/amiga_cracktro_rsi) / [Source](https://github.com/vignjatijevic/codef_projects/tree/master/src/amiga_cracktro_rsi) |
